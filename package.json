@@ -1,0 +1,15 @@
+{
+    "name": "P5-Map-Project",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "janne",
+    "contributors": [
+    ],
+    "dependencies": {}
+}

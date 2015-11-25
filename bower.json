@@ -1,0 +1,27 @@
+{
+  "name": "P5-Map-Project",
+  "version": "1.0.0",
+  "main": "css/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public_html/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "~3.4.0"
+  },
+  "devDependencies": {},
+  "authors": [
+    "Jan K <jan.kaiponen@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
